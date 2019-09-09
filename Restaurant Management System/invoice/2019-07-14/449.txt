@@ -1,0 +1,14 @@
+					Restaurant Managemant Ltd.
+						  Kurudu.
+					       08154549452
+						     Invoice
+						   2019-07-14
+
+
+			========================================================
+			SN.	Products		Qty		Amount
+			========================================================
+			1	Malt      		2		400			
+
+								Total N 400
+					Thanks For Coming...

@@ -1,0 +1,16 @@
+					Restaurant Managemant Ltd.
+						   Kubwa.
+					       08154549452
+					     Invoice
+					   2019-07-19
+
+
+			========================================================
+			SN.	Products		Qty		Amount
+			========================================================
+			1	Fanta      		1		150			
+			2	Meat Pie      		2		400			
+			3	Pop Corn      		1		300			
+
+								Total N 850
+					Thanks For Coming...

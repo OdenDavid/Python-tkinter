@@ -1,0 +1,15 @@
+					Restaurant Managemant Ltd.
+						   Kubwa.
+					       08154549452
+					     Invoice
+					   2019-07-19
+
+
+			========================================================
+			SN.	Products		Qty		Amount
+			========================================================
+			1	doughnut      		1		150			
+			2	Fanta      		1		150			
+
+								Total N 300
+					Thanks For Coming...

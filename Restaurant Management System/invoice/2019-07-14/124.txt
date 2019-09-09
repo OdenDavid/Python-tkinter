@@ -1,0 +1,14 @@
+				Restaurant ManagemantLtd.
+					Kurudu.
+					08154549452
+				Invoice
+				2019-07-14
+
+
+			========================================================
+			SN.	Products		Qty		Amount
+			========================================================
+			1	Pop Corn      		1		300			
+
+								Total N 300
+					Thanks For Coming...
